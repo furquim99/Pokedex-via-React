@@ -1,5 +1,5 @@
 # Pokédex via React
-<img src="./public/imgReadme/pokedex.png"><hr>
+<img src="/src/imgReadme/pokedex-web.gif"><hr>
 
 <p align="justify">Este projeto foi criado em resposta aos desafios de teste técnico do curso de desenvolvimento front-end DevQuest na categoria de React Avançado. Inclui uma simulação do Pokedex, exibindo os objetos do Pokémon na página inicial e uma página contendo o próprio Pokedex e uma descrição do Pokémon selecionado.</p>
 
@@ -10,7 +10,7 @@
 
 ## Aplicação
 
-<img src="./public/imgReadme/pokedex-web.gif"><hr>
+<img src="/src/imgReadme/pokedex-web.gif"><hr>
 
 
 
