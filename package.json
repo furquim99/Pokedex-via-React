@@ -1,7 +1,7 @@
 {
   "name": "pokemon-api",
   "version": "0.1.0",
-  "homepage": "POKEMON-API/",
+  "homepage": "Pokedex-via-React/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
