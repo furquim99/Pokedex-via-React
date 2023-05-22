@@ -5,7 +5,7 @@
 
 ## Descrição 
 - A aplicação é renderizada inicialmente com 10 pokémons solicitados da API, tem um botão para alternar entre o tema claro/escuro, há um botão logo abaixo da lista para adicionar mais pokémons, as atualizações da lista são sempre para ela Adicionar 10 Pokémon.
-- Cada Pokémon possui um link para sua página individual com seu tipo e botões para você escolher se deseja ver suas habilidades ou golpes.
+- Cada Pokémon possui um link para sua página individual com seu tipo e suas habilidades ou golpes.
 <br/>
 
 ## Aplicação
